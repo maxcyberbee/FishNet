@@ -12,7 +12,6 @@ FishNet is a deep learning project designed to identify invasive fish species in
 - [Model Training](#model-training)
 - [Real-Time Detection](#real-time-detection)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Project Overview
@@ -87,8 +86,6 @@ Contributions are welcome! Please follow these steps to contribute:
 5. Push to the branch (\`git push origin feature/your-feature-name\`).
 6. Create a new Pull Request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - Special thanks to the School of Zoology for providing the video data.
