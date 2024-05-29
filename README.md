@@ -51,13 +51,13 @@ FishNet aims to assist in the early detection and monitoring of invasive fish sp
    python app.py
    \`\`\`
 
-2. Access the application via your web browser at `http://localhost:5000`.
+2. The app is too heavy, a demonstration was done in class
 
 ### Processing Video Data
 1. Place your video files in the `data/videos` directory.
 2. Run the video processing script:
    \`\`\`bash
-   python process_videos.py
+   python main.py
    \`\`\`
 
 3. The results will be saved in the `output` directory, with logs and detected species.
@@ -70,10 +70,7 @@ To train the YOLO model, follow these steps:
 
 1. Prepare your dataset and ensure it is correctly formatted for YOLO.
 2. Modify the configuration files as needed.
-3. Train the model:
-   \`\`\`bash
-   python train.py --data data.yaml --cfg yolov5.yaml --weights yolov5s.pt
-   \`\`\`
+3. Train the model: An example run file is attached
 
 4. Monitor the training process and adjust hyperparameters if necessary.
 
