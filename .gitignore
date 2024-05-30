@@ -1,0 +1,7 @@
+# Ignore the entire Dataset directory
+Dataset/
+fishnet/
+
+
+# Ignore all __pycache__ directories
+__pycache__/
